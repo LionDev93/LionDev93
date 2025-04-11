@@ -60,7 +60,7 @@ University of Informatics, UB, Bacau, Romania
 
 ## 📫 Contact Me
 - **Email**: [hadrianone@gmail.com](mailto:hadrianone@gmail.com)
-- **Phone**: +407400073338
+- **Phone**: +40740007338
 - **Location**: Iasi, Romania
 - **GitHub**: [LionDev93](https://github.com/LionDev93)
 
