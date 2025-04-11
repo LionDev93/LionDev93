@@ -51,8 +51,8 @@ University of Informatics, UB, Bacau, Romania
 
 ## 🛠️ Skills
 - **Frontend**: React.js, Next.js, TypeScript, Redux, Chakra-UI, Ant Design, Material-UI, Leaflet, Google Maps, Chart.js.
-- **Backend**: Node.js, Express.js, GraphQL, Nexus, Prisma, WebSocket.
-- **Databases**: PostgreSQL, MySQL.
+- **Backend**: Node.js, Express.js, Python, GraphQL, Nexus, Prisma, WebSocket.
+- **Databases**: PostgreSQL, MySQL, AWS DynamoDB, Google Firebase.
 - **Tools**: Jest, Cypress, Sentry, Google Analytics, Figma, Adobe XD.
 - **Other**: AI Models, Solana.
 
@@ -62,7 +62,7 @@ University of Informatics, UB, Bacau, Romania
 - **Email**: [hadrianone@gmail.com](mailto:hadrianone@gmail.com)
 - **Phone**: +407400073338
 - **Location**: Iasi, Romania
-- **GitHub**: [HrimiucAdrian](https://github.com/HrimiucAdrian)
+- **GitHub**: [LionDev93](https://github.com/LionDev93)
 
 ---
 
